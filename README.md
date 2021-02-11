@@ -1,2 +1,10 @@
-# Jaeger-tutal
-this is pratices project from jaeger, the project used template with two service.
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Build
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
